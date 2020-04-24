@@ -33,7 +33,7 @@ let nim = async () => {
     // FYI: You can convert strings to numbers like this: Number(insertSomeStringHere)
     // BONUS: There's a way for player 2 to always win - can you code an "AI" that beats player 1 every time?
 
-
+    
 }
 
 nim()

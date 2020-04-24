@@ -58,7 +58,6 @@ let tweets = [
 let filterTweets = (tweets, searchString) => {
     // Use .filter() to return only the tweets that contain the searchString in the tweet
     // Make sure to return the filtered array
-    return tweets.filter(t => t.text.includes(searchString))
 }
 
 let sortTweets = (tweets) => {
